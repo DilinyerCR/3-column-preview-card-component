@@ -118,6 +118,7 @@ footer {
 /* ?------------1080px------------ */
 @media only screen and (min-width: 1080px) {
     main {
+        margin: 170px 0 170px 0;
         display: flex;
         justify-content: center;
         gap: 0;
@@ -140,6 +141,9 @@ footer {
     }
     .attribution {
         font-size: 20px;
+    }
+    footer {
+        margin-top: -70px;
     }
     footer .a1 {
         font-weight: 900;
