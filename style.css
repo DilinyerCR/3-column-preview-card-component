@@ -153,6 +153,7 @@ footer {
     .sections button:hover {
         color: var(--Very-light-gray-background-headings-buttons);
         border: 2px solid var(--Very-light-gray-background-headings-buttons);
+        cursor: pointer;
     }
     .section1 button:hover {
         background-color: var(--Bright-orange);
